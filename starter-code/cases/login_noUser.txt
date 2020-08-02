@@ -1,0 +1,6 @@
+login user4 user
+quit
+*
+Login failed
+Goodbye
+*

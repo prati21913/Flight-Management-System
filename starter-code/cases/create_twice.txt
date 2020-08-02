@@ -1,0 +1,8 @@
+create user user 1000
+create user user 90
+quit
+*
+Created user user
+Failed to create user
+Goodbye
+*

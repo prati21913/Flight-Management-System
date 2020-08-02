@@ -1,0 +1,15 @@
+create user user 1000
+login user user
+search "Los Angeles CA" "Seattle WA" 0 5 2
+book 1
+quit
+*
+Created user user
+Logged in as user
+Itinerary 0: 1 flight(s), 137 minutes
+ID: 1028738 Day: 5 Carrier: VX Number: 795 Origin: Los Angeles CA Dest: Seattle WA Duration: 137 Capacity: 4 Price: 853
+Itinerary 1: 1 flight(s), 140 minutes
+ID: 705999 Day: 5 Carrier: AS Number: 479 Origin: Los Angeles CA Dest: Seattle WA Duration: 140 Capacity: 0 Price: 838
+Booking failed, flight is full
+Goodbye
+*

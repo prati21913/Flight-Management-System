@@ -1,0 +1,49 @@
+create user user 10000
+login user user
+search "Los Angeles CA" "Seattle WA" 0 5 20
+quit
+*
+Created user user
+Logged in as user
+Itinerary 0: 1 flight(s), 137 minutes
+ID: 1028738 Day: 5 Carrier: VX Number: 795 Origin: Los Angeles CA Dest: Seattle WA Duration: 137 Capacity: 4 Price: 853
+Itinerary 1: 1 flight(s), 140 minutes
+ID: 705999 Day: 5 Carrier: AS Number: 479 Origin: Los Angeles CA Dest: Seattle WA Duration: 140 Capacity: 0 Price: 838
+Itinerary 2: 1 flight(s), 141 minutes
+ID: 1028739 Day: 5 Carrier: VX Number: 797 Origin: Los Angeles CA Dest: Seattle WA Duration: 141 Capacity: 11 Price: 344
+Itinerary 3: 1 flight(s), 142 minutes
+ID: 705992 Day: 5 Carrier: AS Number: 467 Origin: Los Angeles CA Dest: Seattle WA Duration: 142 Capacity: 8 Price: 321
+Itinerary 4: 1 flight(s), 143 minutes
+ID: 70637 Day: 5 Carrier: AS Number: 519 Origin: Los Angeles CA Dest: Seattle WA Duration: 143 Capacity: 8 Price: 964
+Itinerary 5: 1 flight(s), 146 minutes
+ID: 705984 Day: 5 Carrier: AS Number: 457 Origin: Los Angeles CA Dest: Seattle WA Duration: 146 Capacity: 1 Price: 479
+Itinerary 6: 1 flight(s), 146 minutes
+ID: 705987 Day: 5 Carrier: AS Number: 461 Origin: Los Angeles CA Dest: Seattle WA Duration: 146 Capacity: 13 Price: 918
+Itinerary 7: 1 flight(s), 146 minutes
+ID: 705993 Day: 5 Carrier: AS Number: 469 Origin: Los Angeles CA Dest: Seattle WA Duration: 146 Capacity: 18 Price: 376
+Itinerary 8: 1 flight(s), 147 minutes
+ID: 70787 Day: 5 Carrier: AS Number: 527 Origin: Los Angeles CA Dest: Seattle WA Duration: 147 Capacity: 12 Price: 331
+Itinerary 9: 1 flight(s), 147 minutes
+ID: 754963 Day: 5 Carrier: DL Number: 995 Origin: Los Angeles CA Dest: Seattle WA Duration: 147 Capacity: 19 Price: 137
+Itinerary 10: 1 flight(s), 148 minutes
+ID: 63010 Day: 5 Carrier: AS Number: 99 Origin: Los Angeles CA Dest: Seattle WA Duration: 148 Capacity: 1 Price: 516
+Itinerary 11: 1 flight(s), 148 minutes
+ID: 71004 Day: 5 Carrier: AS Number: 537 Origin: Los Angeles CA Dest: Seattle WA Duration: 148 Capacity: 19 Price: 654
+Itinerary 12: 1 flight(s), 150 minutes
+ID: 756483 Day: 5 Carrier: DL Number: 2199 Origin: Los Angeles CA Dest: Seattle WA Duration: 150 Capacity: 16 Price: 267
+Itinerary 13: 1 flight(s), 151 minutes
+ID: 476418 Day: 5 Carrier: UA Number: 474 Origin: Los Angeles CA Dest: Seattle WA Duration: 151 Capacity: 12 Price: 840
+Itinerary 14: 1 flight(s), 151 minutes
+ID: 705973 Day: 5 Carrier: AS Number: 443 Origin: Los Angeles CA Dest: Seattle WA Duration: 151 Capacity: 14 Price: 841
+Itinerary 15: 1 flight(s), 152 minutes
+ID: 705996 Day: 5 Carrier: AS Number: 475 Origin: Los Angeles CA Dest: Seattle WA Duration: 152 Capacity: 16 Price: 678
+Itinerary 16: 1 flight(s), 152 minutes
+ID: 754414 Day: 5 Carrier: DL Number: 129 Origin: Los Angeles CA Dest: Seattle WA Duration: 152 Capacity: 3 Price: 751
+Itinerary 17: 1 flight(s), 153 minutes
+ID: 66112 Day: 5 Carrier: AS Number: 225 Origin: Los Angeles CA Dest: Seattle WA Duration: 153 Capacity: 16 Price: 209
+Itinerary 18: 1 flight(s), 153 minutes
+ID: 469437 Day: 5 Carrier: UA Number: 286 Origin: Los Angeles CA Dest: Seattle WA Duration: 153 Capacity: 17 Price: 191
+Itinerary 19: 1 flight(s), 153 minutes
+ID: 756128 Day: 5 Carrier: DL Number: 1905 Origin: Los Angeles CA Dest: Seattle WA Duration: 153 Capacity: 12 Price: 124
+Goodbye
+*

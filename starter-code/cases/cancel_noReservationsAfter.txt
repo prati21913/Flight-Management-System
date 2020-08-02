@@ -1,0 +1,19 @@
+create user user 100000
+login user user
+search "Los Angeles CA" "Seattle WA" 0 15 1
+book 0
+pay 1
+cancel 1
+reservations
+quit
+*
+Created user user
+Logged in as user
+Itinerary 0: 1 flight(s), 140 minutes
+ID: 70797 Day: 15 Carrier: AS Number: 527 Origin: Los Angeles CA Dest: Seattle WA Duration: 140 Capacity: 15 Price: 684
+Booked flight(s), reservation ID: 1
+Paid reservation: 1 remaining balance: 99316
+Canceled reservation 1
+No reservations found
+Goodbye
+*

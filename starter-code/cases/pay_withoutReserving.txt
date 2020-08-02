@@ -1,0 +1,10 @@
+create user user 1000
+login user user
+pay 4
+quit
+*
+Created user user
+Logged in as user
+Cannot find unpaid reservation 4 under user: user
+Goodbye
+*
